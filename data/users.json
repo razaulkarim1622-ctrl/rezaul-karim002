@@ -1,0 +1,27 @@
+[
+  {
+    "id": "user_admin_mrt",
+    "name": "সুপার এডমিন (MRT Regular Khata)",
+    "phone": "01711111111",
+    "salt": "94dbb59bf155bb7c22d993eea62b6cd0",
+    "pinHash": "2a3558034b0e4aafea4443615059f53409758410b86573c55e6010ea73cc156aa42a9a13d2c0b3eb86be5a13c6da6aed2d1d3765a9634300f505ff2c2373bbd3",
+    "role": "admin",
+    "createdAt": "2026-10-08T08:39:55.652Z"
+  },
+  {
+    "id": "user_mrt_demo",
+    "name": "এমআরটি ট্রেডার্স (ডেমো)",
+    "phone": "01700000000",
+    "salt": "0bca99f713a53f0578bc6791543b6f6d",
+    "pinHash": "d90de73f8b557c2ad5ebcd62dab42999be237934820a0d2c7e956966e9c76d2fbb06c0110e63349b0ac0df7b556f0fb8f20296dc8065712a0d73e7fe305715c0",
+    "createdAt": "2026-10-08T08:22:16.633Z"
+  },
+  {
+    "id": "usr_1791447747939_be3d10a9",
+    "name": "করিম স্টোর",
+    "phone": "01811223344",
+    "salt": "c4887fc883329909f357c683655cd59a",
+    "pinHash": "a70056724dd7c72352074eef268c3694c84fc1d55d0de0043d77950017d8da8afd7aae9f5a3af3ff5e55a8a130a8dc00d59c7cfe2bbe758af1b727f6cf279205",
+    "createdAt": "2026-10-08T08:22:27.940Z"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "notif_1791447747940",
+    "to": "razaulkarim1622@gmail.com",
+    "subject": "New Account Created - MRT Regular Khata",
+    "userName": "করিম স্টোর",
+    "userPhone": "01811223344",
+    "createdAt": "2026-10-08T08:22:27.940Z",
+    "status": "dispatched_and_recorded",
+    "details": "User \"করিম স্টোর\" (01811223344) created an account on 2026-10-08T08:22:27.940Z. PIN securely hashed."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "MRT Regular Khata",
+  "description": "Professional desktop daily business accounting and digital tally khata software for PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

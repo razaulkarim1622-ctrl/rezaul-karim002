@@ -1,0 +1,67 @@
+[
+  {
+    "id": "entry_1",
+    "userId": "user_mrt_demo",
+    "date": "2026-10-08",
+    "sl": 1,
+    "description": "রহিম ট্রেডার্স (নগদ মাল বিক্রয়)",
+    "sale": 2500,
+    "deposit": 2000,
+    "returnAmount": 0,
+    "expense": 0,
+    "createdAt": "2026-10-08T04:22:16.634Z",
+    "updatedAt": "2026-10-08T04:22:16.634Z"
+  },
+  {
+    "id": "entry_2",
+    "userId": "user_mrt_demo",
+    "date": "2026-10-08",
+    "sl": 2,
+    "description": "করিম সাহেব (বাকির জমা)",
+    "sale": 0,
+    "deposit": 1500,
+    "returnAmount": 0,
+    "expense": 0,
+    "createdAt": "2026-10-08T05:22:16.634Z",
+    "updatedAt": "2026-10-08T05:22:16.634Z"
+  },
+  {
+    "id": "entry_3",
+    "userId": "user_mrt_demo",
+    "date": "2026-10-08",
+    "sl": 3,
+    "description": "আলম ব্রাদার্স (পণ্য ফেরত)",
+    "sale": 0,
+    "deposit": 0,
+    "returnAmount": 250,
+    "expense": 0,
+    "createdAt": "2026-10-08T06:22:16.634Z",
+    "updatedAt": "2026-10-08T06:22:16.634Z"
+  },
+  {
+    "id": "entry_4",
+    "userId": "user_mrt_demo",
+    "date": "2026-10-08",
+    "sl": 4,
+    "description": "দোকান স্টাফ চা-নাস্তা ও ডেলিভারি ভ্যান খরচ",
+    "sale": 0,
+    "deposit": 0,
+    "returnAmount": 0,
+    "expense": 350,
+    "createdAt": "2026-10-08T07:22:16.634Z",
+    "updatedAt": "2026-10-08T07:22:16.634Z"
+  },
+  {
+    "id": "ent_1791447769130_97",
+    "userId": "user_mrt_demo",
+    "date": "2026-10-08",
+    "sl": 5,
+    "description": "মীম ইলেকট্রনিক্স",
+    "sale": 1200,
+    "deposit": 1000,
+    "returnAmount": 0,
+    "expense": 0,
+    "createdAt": "2026-10-08T08:22:49.130Z",
+    "updatedAt": "2026-10-08T08:22:49.130Z"
+  }
+]
